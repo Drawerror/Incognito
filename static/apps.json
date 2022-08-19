@@ -53,8 +53,10 @@
          "title": "Games",
         "img": "./img/apps/games.png",
         "location": "https://gfiles-fork-production.up.railway.app"
-    }
+    },
     {
          "tittle": "Tv",
-        "img": "./img/apps
+        "img": "./img/tv.png",
+        "location": "https://www.showbox.media"
+    }
 ]
