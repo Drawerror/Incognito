@@ -249,7 +249,7 @@
     },
     {
       "img": "./img/gs/sm64.jpg",
-      "location": "/source/webretro/",
+      "location": "./source/webretro",
       "title": "Pokemon Test",
       "category": "n64"
     }
